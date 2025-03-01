@@ -1,8 +1,12 @@
 # Quadratic
 Quadratic solution
+
 #include <iostream>
+
 #include <cmath>
+
 #include <utility>
+
 
 std::pair<bool, std::pair<double, double>> solveQuadratic(double a, double b, double c) {
     if (a == 0) {
