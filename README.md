@@ -1,0 +1,2 @@
+# Quadratic
+Quadratic solution
