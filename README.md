@@ -1,11 +1,11 @@
 # Quadratic
 Quadratic solution
 
-#include <iostream>
+#include < iostream >
 
-#include <cmath>
+#include < cmath >
 
-#include <utility>
+#include < utility >
 
 
 std::pair<bool, std::pair<double, double>> solveQuadratic(double a, double b, double c) {
