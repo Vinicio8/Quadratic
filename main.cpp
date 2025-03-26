@@ -1,6 +1,3 @@
-# Quadratic
-Quadratic solution
-
 #include < iostream >
 
 #include < cmath >
